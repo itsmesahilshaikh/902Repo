@@ -9,4 +9,8 @@ public class ArithmeticOperations {
 	public  int sub(int x,int y ) {
 		return x-y;
 	}
+	
+	public int mul(int m,int n) {
+		return m*n;
+	}
 }
