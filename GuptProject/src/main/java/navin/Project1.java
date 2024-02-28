@@ -8,4 +8,7 @@ public class Project1 {
 	public  int sub(int x,int y ) {
 		return x-y;
 	}
+	public int minus(int x) {
+		return x;
+	}
 }
