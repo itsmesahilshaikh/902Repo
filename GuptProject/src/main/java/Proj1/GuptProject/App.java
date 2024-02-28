@@ -14,6 +14,8 @@ public class App
         System.out.println(ar.sum(100, 200));
         System.out.println(ar.sub(100, 200));
         System.out.println(ar.mul(300, 100));
-
+        Login lg=new Login();
+        System.out.println( lg.add(200, 300));
+        
     }
 }
