@@ -8,4 +8,5 @@ public class ArithmeticOperations {
 	public String doDebitCardPayment() {
 		return "Debit Card Payment is Done";
 	}
+	
 }
