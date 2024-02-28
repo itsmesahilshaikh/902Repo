@@ -8,4 +8,7 @@ public class ArithmeticOperations {
 	public String doDebitCardPayment() {
 		return "Debit Card Payment is Done";
 	}
+	public String doUpiPayment() {
+		return "UPI payment is done..";
+	}
 }
